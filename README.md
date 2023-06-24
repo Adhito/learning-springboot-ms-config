@@ -1,1 +1,1 @@
-# learning-springboot-ms-config
+# Learning SpringBoot ms-config
